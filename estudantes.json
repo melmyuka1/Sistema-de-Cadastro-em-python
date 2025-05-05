@@ -1,12 +1,7 @@
 [
     {
-        "nome": "Mel",
-        "idade": "17",
-        "matricula": "11042007"
-    },
-    {
-        "nome": "Amanda",
-        "idade": "18",
-        "matricula": "14022007"
+        "id": "11042007",
+        "nome": "Melissa Cristina Cardoso",
+        "idade": "18"
     }
 ]
